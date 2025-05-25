@@ -1,0 +1,15 @@
+C:\Users\Eleanor Johansson\OneDrive\Documents\GitHub\iextractor\iextractor\bin\Debug\net10.0\iextractor.exe
+C:\Users\Eleanor Johansson\OneDrive\Documents\GitHub\iextractor\iextractor\bin\Debug\net10.0\iextractor.deps.json
+C:\Users\Eleanor Johansson\OneDrive\Documents\GitHub\iextractor\iextractor\bin\Debug\net10.0\iextractor.runtimeconfig.json
+C:\Users\Eleanor Johansson\OneDrive\Documents\GitHub\iextractor\iextractor\bin\Debug\net10.0\iextractor.dll
+C:\Users\Eleanor Johansson\OneDrive\Documents\GitHub\iextractor\iextractor\bin\Debug\net10.0\iextractor.pdb
+C:\Users\Eleanor Johansson\OneDrive\Documents\GitHub\iextractor\iextractor\obj\Debug\net10.0\iextractor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eleanor Johansson\OneDrive\Documents\GitHub\iextractor\iextractor\obj\Debug\net10.0\iextractor.AssemblyInfoInputs.cache
+C:\Users\Eleanor Johansson\OneDrive\Documents\GitHub\iextractor\iextractor\obj\Debug\net10.0\iextractor.AssemblyInfo.cs
+C:\Users\Eleanor Johansson\OneDrive\Documents\GitHub\iextractor\iextractor\obj\Debug\net10.0\iextractor.csproj.CoreCompileInputs.cache
+C:\Users\Eleanor Johansson\OneDrive\Documents\GitHub\iextractor\iextractor\obj\Debug\net10.0\iextractor.sourcelink.json
+C:\Users\Eleanor Johansson\OneDrive\Documents\GitHub\iextractor\iextractor\obj\Debug\net10.0\iextractor.dll
+C:\Users\Eleanor Johansson\OneDrive\Documents\GitHub\iextractor\iextractor\obj\Debug\net10.0\refint\iextractor.dll
+C:\Users\Eleanor Johansson\OneDrive\Documents\GitHub\iextractor\iextractor\obj\Debug\net10.0\iextractor.pdb
+C:\Users\Eleanor Johansson\OneDrive\Documents\GitHub\iextractor\iextractor\obj\Debug\net10.0\iextractor.genruntimeconfig.cache
+C:\Users\Eleanor Johansson\OneDrive\Documents\GitHub\iextractor\iextractor\obj\Debug\net10.0\ref\iextractor.dll

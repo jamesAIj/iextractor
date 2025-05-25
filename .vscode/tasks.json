@@ -1,0 +1,89 @@
+// See https://go.microsoft.com/fwlink/?LinkId=733558
+// for the documentation about the tasks.json format
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "build",
+            "type": "shell",
+            "command": "dotnet",
+            "args": [
+                "build",
+                "iextractor.sln"
+            ],
+            "group": "build",
+            "presentation": {
+                "reveal": "always"
+            },
+            // Use the standard MS compiler pattern to detect errors, warnings and infos
+            "problemMatcher": "$msCompile"
+        }
+    ]
+}
+// This file is used to define tasks for Visual Studio Code.
+// The task defined here is for building a .NET project using MSBuild.
+// Make sure to replace "YourProject.sln" with the actual name of your solution or project file.
+// The task will run the build command and display any errors, warnings, or infos in the Problems panel.
+// The task is set to always reveal the output in the terminal when it runs.
+// You can add more tasks or modify this one as needed for your development workflow.
+// You can run this task by pressing Ctrl+Shift+B or selecting it from the Command Palette.
+// You can also customize the task further by adding more arguments or changing the command as needed.
+// Note: Ensure that MSBuild is installed and available in your system's PATH.
+// This task is set to run in the shell, so it will use the default shell of your system.
+// You can also configure the task to run in a specific shell by adding a "options" section with "shell" property.
+// For example, to run in PowerShell, you can add:
+            // "options": {
+            //     "shell": {
+            //         "executable": "powershell.exe",
+            //         "args": []
+            //     }
+            // }
+            // This will ensure that the task runs in PowerShell instead of the default shell.
+
+            
+// This tasks.json file is used to define a build task for Visual Studio Code.
+// It specifies how to build a .NET project using MSBuild.
+// The task is configured to run the build command with specific arguments and settings.
+// Make sure to replace "YourProject.sln" with the actual name of your solution or project file.
+// The task will generate full paths for the files and will not generate a summary in the output.
+// The problem matcher is set to "$msCompile" to detect errors, warnings, and infos in the output.
+// You can run this task by pressing Ctrl+Shift+B or selecting it from the Command Palette.
+// You can also customize the task further by adding more arguments or changing the command as needed.
+// Note: Ensure that MSBuild is installed and available in your system's PATH.
+// This task is set to run in the shell, so it will use the default shell of your system.
+// You can also configure the task to run in a specific shell by adding a "options" section with "shell" property.
+// For example, to run in PowerShell, you can add:
+            // "options": {
+            //     "shell": {
+            //         "executable": "powershell.exe",
+            //         "args": []
+            //     }
+            // }
+            // This will ensure that the task runs in PowerShell instead of the default shell.
+// This tasks.json file is used to define a build task for Visual Studio Code.
+// It specifies how to build a .NET project using MSBuild.
+// The task is configured to run the build command with specific arguments and settings.
+// Make sure to replace "YourProject.sln" with the actual name of your solution or project file.        
+// The task will generate full paths for the files and will not generate a summary in the output.
+// The problem matcher is set to "$msCompile" to detect errors, warnings, and infos in the output.
+// You can run this task by pressing Ctrl+Shift+B or selecting it from the Command Palette.
+// You can also customize the task further by adding more arguments or changing the command as needed.
+// Note: Ensure that MSBuild is installed and available in your system's PATH.                  
+// This task is set to run in the shell, so it will use the default shell of your system.
+// You can also configure the task to run in a specific shell by adding a "options" section with "shell" property.
+// For example, to run in PowerShell, you can add:      
+// "options": {
+//     "shell": {
+//         "executable": "powershell.exe",          
+//         "args": []
+//     }
+// }
+// This will ensure that the task runs in PowerShell instead of the default shell.
+// This tasks.json file is used to define a build task for Visual Studio Code.      
+// It specifies how to build a .NET project using MSBuild.                          
+// The task is configured to run the build command with specific arguments and settings.
+// Make sure to replace "YourProject.sln" with the actual name of your solution or project file.
+// The task will generate full paths for the files and will not generate a summary in the output.
+// The problem matcher is set to "$msCompile" to detect errors, warnings, and infos in the output.
+
+
